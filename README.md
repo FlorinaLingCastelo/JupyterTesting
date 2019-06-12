@@ -1,2 +1,0 @@
-# JupyterTesting
-Jupyter Testing Work
